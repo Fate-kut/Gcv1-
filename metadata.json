@@ -1,0 +1,6 @@
+{
+  "name": "AlphaTrade",
+  "description": "Pixel-perfect, mobile-first dark-mode trading and investment platform prototype featuring live watchlists, sparkline charts, interactive onboarding wizard, portfolio insights, and market news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
